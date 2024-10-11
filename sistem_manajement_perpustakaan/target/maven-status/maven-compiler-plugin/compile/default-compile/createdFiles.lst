@@ -1,0 +1,7 @@
+com\mycompany\sistem_manajement_perpustakaan\model\NonFiksi.class
+com\mycompany\sistem_manajement_perpustakaan\model\CRUDOperations.class
+com\mycompany\sistem_manajement_perpustakaan\model\Fiksi.class
+com\mycompany\sistem_manajement_perpustakaan\model\Anggota.class
+com\mycompany\sistem_manajement_perpustakaan\model\Buku.class
+com\mycompany\sistem_manajement_perpustakaan\model\ManajemenBuku.class
+com\mycompany\sistem_manajement_perpustakaan\Sistem_manajement_perpustakaan.class
